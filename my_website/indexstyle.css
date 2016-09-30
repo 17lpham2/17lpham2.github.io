@@ -1,12 +1,74 @@
 body{
     font-family:"Comic Sans MS", fantasy;
     color: #003366;
+    background-color: lightblue;
 }
 h1{
+    font-style: "Courier New", monospace;
     font-size:50px;
     text-align:center;
 }
 img{
     margin-left: auto;
     margin-right: auto
+}
+a:link{ color: black;
+}
+a:hover{ color: lightgray;
+}
+a:active{ color: black;
+}
+.homeinfo {
+    font-family: "Courier New", monospace;
+    color: #ff751a;
+}
+.title{
+    font-family: "Courier New", monospace;
+    color: pink;
+}
+audio{
+}
+.criteria{
+    font-family: "Courier New", monospace;
+    color: black;
+    border-style: outset;
+    background-color: lightgray;
+}
+.about{
+    font-family: "Courier New", monospace;
+    font-size: 30px;
+    margin-right: 120px;
+    
+}
+.aboutpage{
+      background-color: #99ffbb;
+}
+table{
+    margin-right: auto;
+    text-align: left;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid #ffffff;
+    text-align: center;
+    background-color: #9fb6cd;
+    font-family: "New Courier", monospace;
+}
+th{
+    text-align: centert;
+    color: #ff751a;
+    font-family: "New Courier", monospace;
+    background-color: #003366;
+}
+.comicsans{
+     font-family:"Comic Sans MS", fantasy;
+    }
+.home{
+    color: lightpink;
+}
+.aboutlong{
+    color: #ff751a;
+}
+.audio{
+    display: none;
 }

@@ -1,0 +1,29 @@
+body{
+    font-family:"Comic Sans MS", fantasy;
+    color: #003366;
+    background-color: lightblue;
+}
+h1{
+    font-size:50px;
+    text-align:center;
+}
+img{
+    text-align: center;
+    margin: auto;
+}
+a{  
+    font-family: "Courier New", monospace;
+    color: black;
+    border-style: outset;
+    background-color: lightgray;
+}
+p.about{
+    font-family: "Courier New", monospace;
+}
+a:link{ color: blue;
+}
+a:hover{ color: lightgray;
+}
+a:active{ color: black;
+}
+   
